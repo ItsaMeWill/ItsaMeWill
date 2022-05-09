@@ -42,4 +42,5 @@ In active search for a trainee position. Not worrying about money right now, jus
  ### 📊 My Stats :
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ItsaMeWill&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsaMeWill&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
