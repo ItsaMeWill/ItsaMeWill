@@ -11,3 +11,9 @@
     <img src="https://media.giphy.com/media/35KomAE3Mj421dSv1r/giphy.gif" width="40"/>
   </h1>
 </div>
+
+---
+
+### :man_technologist: About Me :
+I'm an immigrant from Brazil, who's i'm search of a better life!
+And also an aspiring game developer!
