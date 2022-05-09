@@ -6,4 +6,8 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ItsaMeWill&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Welcome to my humble profile! 
+    <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif" width="40"/>
+  </h1>
 </div>
