@@ -12,8 +12,16 @@
   </h1>
 </div>
 
+### 👨‍💻 About Me :
+I'm an immigrant from Brazil, who's in search of a better life! And also an aspiring game developer!
+
+- Completed a bootcamp with the amazing people from Academia de Codigo! (https://www.academiadecodigo.org/)
+- Worked for 1 year as an Outsystems Developer
+- Began studying with Master D (https://www.masterd.pt/blog/novo-curso-desenvolvimento-de-jogos-2d-com-unity)
+- And now i'm 24/7, full time, wake - study - sleep 💪
+
+In active search for a trainee position. Not worrying about money right now, just the first opportunity!
+
 ---
 
-### :man_technologist: About Me :
-I'm an immigrant from Brazil, who's i'm search of a better life!
-And also an aspiring game developer!
+### :hammer_and_wrench: Languages and Tools :
