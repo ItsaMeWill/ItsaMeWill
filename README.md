@@ -4,6 +4,7 @@
     <a href="https://www.linkedin.com/in/willian-rogerio-silva/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <br>
       <img src="https://dcbadge.vercel.app/api/shield/187999920446373888?style=flat"/>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ItsaMeWill&style=flat-square&color=blue"/>
