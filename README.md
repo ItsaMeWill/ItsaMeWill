@@ -7,7 +7,7 @@
     <br>
       <img src="https://dcbadge.vercel.app/api/shield/187999920446373888?style=flat"/>
   </div>
-  ![](https://komarev.com/ghpvc/?username=ItsaMeWill&style=flat-square&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=ItsaMeWill&style=flat-square&color=blue"/>
   <h1>
     Hello there! 
     <img src="https://media.giphy.com/media/35KomAE3Mj421dSv1r/giphy.gif" width="40"/>
