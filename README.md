@@ -6,6 +6,7 @@
     </a>
     <br>
     <img src="https://dcbadge.vercel.app/api/shield/187999920446373888?style=flat" />
+    ![](https://dcbadge.vercel.app/api/shield/187999920446373888?style=flat)
   </div>
   <img src="https://komarev.com/ghpvc/?username=ItsaMeWill&style=flat-square&color=blue" />
   <h1>
