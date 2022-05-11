@@ -5,9 +5,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <br>
-    <img src="https://dcbadge.vercel.app/api/shield/187999920446373888?style=flat"/>
+    <img src="https://dcbadge.vercel.app/api/shield/187999920446373888?style=flat" />
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ItsaMeWill&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=ItsaMeWill&style=flat-square&color=blue" />
   <h1>
     Hello there! 
     <img src="https://media.giphy.com/media/35KomAE3Mj421dSv1r/giphy.gif" width="40"/>
