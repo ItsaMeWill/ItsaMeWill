@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me :
 I'm an immigrant from Brazil, who's in search of a better life! And also an aspiring game developer! <br>
-Currently in the Azores, Portugal.
+Currently living in the Azores, Portugal.
 
 - Completed a bootcamp with the amazing people from Academia de Codigo! (https://www.academiadecodigo.org/)
 - Worked for 1 year as an Outsystems Developer
